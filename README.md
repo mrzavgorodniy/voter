@@ -1,4 +1,4 @@
-# VOTER APPLICATION / INCODE INTERNSHIP
+# VOTER APPLICATION
 
 1. npm i
 2. npm run client-install
